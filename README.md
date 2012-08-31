@@ -59,3 +59,39 @@
 - yield ECMAScript6
 - select timeout
 
+
+## Davidson Filipe
+### Alta Performance em Aplicações JavaScript
+
+- Steve Souders
+- Head.js
+- jpath
+- JSLitmus
+- webpagetest
+- visibility da reflow?
+
+
+
+## Zeno Rocha
+### Como não virar um zumbi
+- font awesome
+- ftpm
+- DART
+- breakpoints debug
+- tincr (live reload)
+- dojojs
+- zombiejs
+- phantomjs
+- yeoman.js
+- grunt
+
+
+## Bernardo de Luna
+### Estilizando CSS
+- formee
+- não use seletores css3
+- css perf test
+- reflow/repaint
+- definir tamanho das imagens no CSS
+- Alysson Franklin
+- dry / oocss / smacss / bem (block element modifier)
