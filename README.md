@@ -116,3 +116,17 @@
 - GUM (Mike Taylor)
 - kinesis.io
 - depth.js
+
+
+## Benjamin E Alman
+### An Introduction to Grunt
+- grunt
+- bocoup introducing grunt
+- gitgub (cowboy)
+- jake
+
+
+## Brendan Eich
+### Palestra: The State of JavaScript
+
+
