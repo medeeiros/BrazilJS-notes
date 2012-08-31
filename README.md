@@ -95,3 +95,24 @@
 - definir tamanho das imagens no CSS
 - Alysson Franklin
 - dry / oocss / smacss / bem (block element modifier)
+
+
+## Michal Budzynski
+### The next console generation will be the last
+
+- ImpactJS
+- ongamestart twitter
+
+
+## Daniel Filho
+### Interagindo com a web além do teclado e mouse
+
+- WebRTC.org
+- Realtime.co
+- Shiny demos
+- facekat
+- Paul Neave (Face Detection)
+- getUserMedia.js Addy Osmani
+- GUM (Mike Taylor)
+- kinesis.io
+- depth.js
